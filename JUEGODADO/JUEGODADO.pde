@@ -4,7 +4,7 @@ void setup(){
   dado= new Dado();
 }
 void draw(){
-  background(10);
-dado.dibujardado();
-dado.DibujarValor();
+  background(255);
+dado.dibujarDado();
+dado.dibujarValor();
 }
